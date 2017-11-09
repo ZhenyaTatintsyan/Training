@@ -10,3 +10,6 @@
 # Headers/Tags/Timing-Stamps/Cache-control/Content-Lenght/Content-Tipe/Status/path
 # Headers/Tags/Timing-Stamps/Cache-Control/Content-Lenght/Content-Type/Status/query1
 # Headers/Tags/Timing-Stamps/Cache-Control/Content-Lenght/Content-Type/Status/query2
+
+*Notes
+I have specially put some space in the GET requests. And I think those should generate the 'query1' and 'query2' responses.
