@@ -1,0 +1,12 @@
+# This is my Homework
+
+* Requests
+
+# GET git@github.com:ZhenyaTatintsyan/Training.git/Homework/աշխատակիցների-անունները
+# GET git@github.com:ZhenyaTatintsyan/Training.git/Homework/աշխատակցուհիների անունները
+# GET git@github.com:ZhenyaTatintsyan/Training.git/Homework/աշխատակից տղաների անունները
+
+* Responses
+# Headers/Tags/Timing-Stamps/Cache-control/Content-Lenght/Content-Tipe/Status/path
+# Headers/Tags/Timing-Stamps/Cache-Control/Content-Lenght/Content-Type/Status/query1
+# Headers/Tags/Timing-Stamps/Cache-Control/Content-Lenght/Content-Type/Status/query2
